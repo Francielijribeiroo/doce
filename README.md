@@ -1,2 +1,3 @@
-# comida
-Projeto Final poo
+# Comida : Um assunto ideal para o projeto
+
+
