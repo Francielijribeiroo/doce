@@ -1,4 +1,4 @@
-# Aplicativo de Gerenciamento de Doces
+# Sistema de Gerenciamento de Doces
 
 
 
