@@ -1,3 +1,4 @@
-# Comida : Um assunto ideal para o projeto
+# Aplicativo de Gerenciamento de Doces
+
 
 
